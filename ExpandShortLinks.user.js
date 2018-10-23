@@ -5,11 +5,11 @@
 // @author       @samliew
 // @version      1.2.1
 //
-// @match        https://*stackoverflow.com/*
-// @match        https://*serverfault.com/*
-// @match        https://*superuser.com/*
-// @match        https://*askubuntu.com/*
-// @match        https://*mathoverflow.net/*
+// @match        https://*.stackoverflow.com/*
+// @match        https://*.serverfault.com/*
+// @match        https://*.superuser.com/*
+// @match        https://*.askubuntu.com/*
+// @match        https://*.mathoverflow.net/*
 // @match        https://*.stackexchange.com/*
 // ==/UserScript==
 
